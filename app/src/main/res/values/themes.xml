@@ -25,7 +25,7 @@
         <item name="android:statusBarColor">@color/blue</item>
     </style>
 
-    <style name="PagiActivity" parent="Theme.DoaDanDzikir">
+    <style name="PagiActivity" parent="Theme.DoaDanDzikirApp">
         <item name="android:statusBarColor">@color/blue</item>
         <item name="colorPrimary">@color/blue</item>
         <item name="title">Dzikir Pagi</item>
